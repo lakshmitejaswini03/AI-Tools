@@ -1,9 +1,11 @@
 AI PROMPTS REPOSITORY:
+
 Welcome tomy AI Prompts Repository!
 
 This repository contains useful and effective AI prompts designed for students, beginners, and professionals.
 
 CATEGORIES:
+
  a. Career Development
 
  b. Education
@@ -17,6 +19,7 @@ CATEGORIES:
  f. Creative Content
 
  AI TOOLS:
+
  i. ChatGPT
 
  ii. Google Gemini
