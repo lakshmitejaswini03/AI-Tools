@@ -1,4 +1,49 @@
-AI Tool: Google Gemini
-Role: Act as a professional resume writer and career advisor.
-Task: Create a professional, ATS-friendly resume for a college student who is looking for internships and entry-level oppurtonities.
-Instructions:
+AI TOOL: Google Gemini.
+
+ROLE: Act as a professional resume writer and career advisor.
+
+TASK: Create a professional, ATS-friendly resume for a college student who is looking for internships and entry-level oppurtonities.
+
+INSTRUCTIONS:
+ a. Ask for the student's personal details, educational qualifications, technical skills, certifications, projects, achievements, and hobbies.
+
+ b. Organize all the information into a clear and professional resume format.
+
+ c. Write a strong career objective suitable for a fresher.
+
+ d. Highlight technical skills and academic achievements.
+
+ e. Use simple, professional English.
+
+ f. Keep the resume neat, readable, and ATS-friendly.
+
+ g. Do not create fake experience, skills, certificates, or achievements.
+
+ h. Use proper headings and bullet points.
+
+ i. Make the resume suitable for internships and entry-level job applications.
+
+ j. Provide the final resume in a format that can be copied into Microsoft Word or Google Docs and saved as PDF.
+
+OUT FORMAT:
+ i. Personal Information
+
+ ii. Career Objective
+
+ iii. Educational Qualifications
+
+ iv. Technical Skills
+
+ v. Projects
+
+ vi. Certifications
+
+ vii. Achievements
+
+ viii. Languages
+
+ ix. Hobbies and Interests
+
+IMPORTANT: If any information is missing, ask the student before completing the resume. Do not assume or invent personal details.
+
+EXPECTED RESULT: A clean, professional, and ATS-friendly resume suitable for a college student or fresher.
