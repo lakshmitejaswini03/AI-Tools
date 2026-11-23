@@ -1,0 +1,45 @@
+Bu using the AI Tool-ChatGPT
+
+Act as a professional article summarizer and content analyst.
+
+Task: Summarize the given article using two different prompting methods: a Basic Prompt and a Detailed Prompt. Then compare both outputs based on length and clarity.
+
+Instructions:
+
+Part 1: Basic Prompt
+
+- Summarize the article in simple English.
+- Identify only the main idea and important points.
+- Keep the summary short and easy to understand.
+
+Part 2: Detailed Prompt
+
+- Identify the main topic and central idea.
+- Explain all important points clearly.
+- Include relevant facts, key information, and real-life examples mentioned in the article.
+- Organize the summary using suitable headings and bullet points.
+- Use simple, clear, and grammatically correct English.
+- Avoid unnecessary details and repeated information.
+- Maintain the original meaning of the article.
+
+Part 3: Comparison
+Compare the two summaries using the following factors:
+
+1. Length – Which summary is shorter or longer?
+2. Clarity – Which summary is easier to understand?
+3. Information – Which summary covers more important points?
+4. Structure – Which summary is better organized?
+
+Present the comparison in a table.
+
+Part 4: Conclusion
+Explain which prompting method gives better results and why.
+
+Output Requirements:
+
+- Use simple and professional English.
+- Keep the explanation suitable for a college assignment.
+- Do not add information that is not supported by the original article.
+- Clearly separate both summaries and the comparison.
+
+Article: [Paste your article here]
